@@ -1,4 +1,4 @@
-class Evaluate ReversePolishNotation {
+class EvaluateReversePolishNotation {
 
     public static int evalRPN(String[] tokens) {
         Stack<Integer> st = new Stack<>();
